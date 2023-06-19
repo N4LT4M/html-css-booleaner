@@ -2,6 +2,11 @@ header {
     background-color: rgb(121, 207, 236);
 }
 
-header {
-    color: aliceblue;
+footer {
+    background-color: blue;
+    color: antiquewhite;
+}
+
+footer {
+    text-align: center;
 }

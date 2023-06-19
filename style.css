@@ -10,3 +10,17 @@ footer {
 footer {
     text-align: center;
 }
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+th {
+    background-color: rgb(71, 131, 241);
+}
+
+tr:nth-child(even) {
+    background-color: rgb(190, 189, 187);
+}
